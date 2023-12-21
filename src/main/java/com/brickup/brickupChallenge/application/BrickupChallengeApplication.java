@@ -1,4 +1,4 @@
-package com.brickup.brickupChallenge;
+package com.brickup.brickupChallenge.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
