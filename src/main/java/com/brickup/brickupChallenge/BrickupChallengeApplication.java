@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BrickupChallengeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BrickupChallengeApplication.class, args);
+		SpringApplication.run(BrickupChallengeApplication.class, args); //
 	}
 
 }
